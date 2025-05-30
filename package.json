@@ -1,0 +1,25 @@
+{
+  "name": "socket_alloydb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Triggo-ai4/socket_alloydb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Triggo-ai4/socket_alloydb/issues"
+  },
+  "homepage": "https://github.com/Triggo-ai4/socket_alloydb#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
